@@ -13,6 +13,7 @@ class Array_List{
 		arr.remove(0);         // remove element at 0th index
 		arr.set(1,9);         // modify elemnt at 1th index with value 9
 		arr.size()              // it will return size of array list
+		arr.indexOf(6)       // find index of 6 element present in arralist that is useful for searching 
 		 System.out.println(arr);  // print all element present in array
 
 		// String arr1 = "hello";
